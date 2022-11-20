@@ -1,6 +1,6 @@
 layout: page
 title: "Ohjelmistokehittämisen työkalut"
-permalink: https://github.com/sakupetteri/sakupetteri.github.io
+permalink: https://github.com/sakupetteri/sakupetteri.github.io/Ohjelmistokehittamisen-tyokalut
 
 ## Exercise 1
 ###

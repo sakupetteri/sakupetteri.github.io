@@ -1,6 +1,8 @@
-layout: page
-title: "Ohjelmistokehittämisen työkalut"
+---
+layout: page  
+title: "Ohjelmistokehittämisen työkalut"  
 permalink: https://sakupetteri.github.io/Ohjelmistokehittamisen-tyokalut
+---
 
 ## Exercise 1
 ###

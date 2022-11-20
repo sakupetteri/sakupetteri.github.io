@@ -1,3 +1,7 @@
+layout: page
+title: "Ohjelmistokehittämisen työkalut"
+permalink: https://sakupetteri.github.io/ohjelmistokehittamisen-tyokalut
+
 ## Exercise 1
 ###
 Writing in Markdown is _not_ that hard!
